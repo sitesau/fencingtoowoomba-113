@@ -1,0 +1,22 @@
+{
+  "wheel_id": 882,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-113",
+  "project": "fencing-contractors-toowoomba-myths-d2935e47af8302bd9e685fcf854",
+  "parent_t1_ref": "fencingtoowoomba-156",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba myths",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-113/",
+  "tier": "T2",
+  "writeback_nonce": "c2d837c2e6716a75",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-glossary-6efd119529727a8035178172/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
